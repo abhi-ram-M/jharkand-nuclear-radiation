@@ -1,0 +1,976 @@
+,Area Name,Age gorup,Mental-Retardation-total,Mental-Retardation-M,Mental-Retardation-F,Mental-Illness-total,Mental-Illness-M,Mental-Illness-F
+0,State-JHARKHAND,Total,"37,458","21,601","15,857","20,157","11,718","8,439"
+1,State-JHARKHAND,0-4,"1,545",822,723,292,173,119
+2,State-JHARKHAND,5-9,"3,631","2,034","1,597",984,568,416
+3,State-JHARKHAND,10-19,"10,276","5,819","4,457","3,612","2,060","1,552"
+4,State-JHARKHAND,20-29,"7,196","4,195","3,001","4,151","2,501","1,650"
+5,State-JHARKHAND,30-39,"5,675","3,377","2,298","3,933","2,373","1,560"
+6,State-JHARKHAND,40-49,"4,235","2,594","1,641","3,270","1,941","1,329"
+7,State-JHARKHAND,50-59,"2,422","1,424",998,"1,924","1,039",885
+8,State-JHARKHAND,60-69,"1,658",882,776,"1,342",701,641
+9,State-JHARKHAND,70-79,530,289,241,458,253,205
+10,State-JHARKHAND,80-89,131,68,63,104,52,52
+11,State-JHARKHAND,90+,45,25,20,37,25,12
+12,State-JHARKHAND,Age Not Stated,114,72,42,50,32,18
+13,State-JHARKHAND,Total,"28,693","16,360","12,333","15,161","8,554","6,607"
+14,State-JHARKHAND,0-4,"1,236",652,584,228,129,99
+15,State-JHARKHAND,5-9,"2,956","1,651","1,305",805,469,336
+16,State-JHARKHAND,10-19,"8,019","4,517","3,502","2,784","1,566","1,218"
+17,State-JHARKHAND,20-29,"5,237","3,035","2,202","2,940","1,707","1,233"
+18,State-JHARKHAND,30-39,"4,213","2,454","1,759","2,847","1,658","1,189"
+19,State-JHARKHAND,40-49,"3,215","1,930","1,285","2,498","1,437","1,061"
+20,State-JHARKHAND,50-59,"1,830","1,063",767,"1,471",772,699
+21,State-JHARKHAND,60-69,"1,360",709,651,"1,103",558,545
+22,State-JHARKHAND,70-79,429,237,192,356,184,172
+23,State-JHARKHAND,80-89,103,54,49,82,45,37
+24,State-JHARKHAND,90+,37,18,19,28,17,11
+25,State-JHARKHAND,Age Not Stated,58,40,18,19,12,7
+26,State-JHARKHAND,Total,"8,765","5,241","3,524","4,996","3,164","1,832"
+27,State-JHARKHAND,0-4,309,170,139,64,44,20
+28,State-JHARKHAND,5-9,675,383,292,179,99,80
+29,State-JHARKHAND,10-19,"2,257","1,302",955,828,494,334
+30,State-JHARKHAND,20-29,"1,959","1,160",799,"1,211",794,417
+31,State-JHARKHAND,30-39,"1,462",923,539,"1,086",715,371
+32,State-JHARKHAND,40-49,"1,020",664,356,772,504,268
+33,State-JHARKHAND,50-59,592,361,231,453,267,186
+34,State-JHARKHAND,60-69,298,173,125,239,143,96
+35,State-JHARKHAND,70-79,101,52,49,102,69,33
+36,State-JHARKHAND,80-89,28,14,14,22,7,15
+37,State-JHARKHAND,90+,8,7,1,9,8,1
+38,State-JHARKHAND,Age Not Stated,56,32,24,31,20,11
+39,District-Garhwa ,Total,"1,804","1,117",687,925,553,372
+40,District-Garhwa ,0-4,53,36,17,17,14,3
+41,District-Garhwa ,5-9,182,94,88,56,30,26
+42,District-Garhwa ,10-19,516,325,191,200,111,89
+43,District-Garhwa ,20-29,303,183,120,179,123,56
+44,District-Garhwa ,30-39,286,174,112,170,105,65
+45,District-Garhwa ,40-49,222,146,76,116,73,43
+46,District-Garhwa ,50-59,103,74,29,80,43,37
+47,District-Garhwa ,60-69,106,64,42,74,35,39
+48,District-Garhwa ,70-79,25,18,7,26,14,12
+49,District-Garhwa ,80-89,6,2,4,5,3,2
+50,District-Garhwa ,90+,2,1,1,2,2,0
+51,District-Garhwa ,Age Not Stated,0,0,0,0,0,0
+52,District-Garhwa ,Total,"1,699","1,049",650,881,527,354
+53,District-Garhwa ,0-4,51,35,16,17,14,3
+54,District-Garhwa ,5-9,176,94,82,54,29,25
+55,District-Garhwa ,10-19,489,307,182,192,109,83
+56,District-Garhwa ,20-29,283,170,113,166,114,52
+57,District-Garhwa ,30-39,271,163,108,159,97,62
+58,District-Garhwa ,40-49,205,135,70,110,68,42
+59,District-Garhwa ,50-59,96,67,29,77,42,35
+60,District-Garhwa ,60-69,98,59,39,73,35,38
+61,District-Garhwa ,70-79,23,17,6,26,14,12
+62,District-Garhwa ,80-89,5,1,4,5,3,2
+63,District-Garhwa ,90+,2,1,1,2,2,0
+64,District-Garhwa ,Age Not Stated,0,0,0,0,0,0
+65,District-Garhwa ,Total,105,68,37,44,26,18
+66,District-Garhwa ,0-4,2,1,1,0,0,0
+67,District-Garhwa ,5-9,6,0,6,2,1,1
+68,District-Garhwa ,10-19,27,18,9,8,2,6
+69,District-Garhwa ,20-29,20,13,7,13,9,4
+70,District-Garhwa ,30-39,15,11,4,11,8,3
+71,District-Garhwa ,40-49,17,11,6,6,5,1
+72,District-Garhwa ,50-59,7,7,0,3,1,2
+73,District-Garhwa ,60-69,8,5,3,1,0,1
+74,District-Garhwa ,70-79,2,1,1,0,0,0
+75,District-Garhwa ,80-89,1,1,0,0,0,0
+76,District-Garhwa ,90+,0,0,0,0,0,0
+77,District-Garhwa ,Age Not Stated,0,0,0,0,0,0
+78,District-Chatra,Total,"1,031",610,421,576,356,220
+79,District-Chatra,0-4,32,21,11,10,7,3
+80,District-Chatra,5-9,125,64,61,53,32,21
+81,District-Chatra,10-19,307,174,133,137,76,61
+82,District-Chatra,20-29,182,108,74,115,74,41
+83,District-Chatra,30-39,133,88,45,100,68,32
+84,District-Chatra,40-49,118,75,43,75,45,30
+85,District-Chatra,50-59,63,43,20,48,34,14
+86,District-Chatra,60-69,55,27,28,26,12,14
+87,District-Chatra,70-79,13,9,4,6,4,2
+88,District-Chatra,80-89,2,1,1,5,3,2
+89,District-Chatra,90+,1,0,1,1,1,0
+90,District-Chatra,Age Not Stated,0,0,0,0,0,0
+91,District-Chatra,Total,948,559,389,510,315,195
+92,District-Chatra,0-4,31,20,11,9,7,2
+93,District-Chatra,5-9,114,58,56,49,31,18
+94,District-Chatra,10-19,290,164,126,123,69,54
+95,District-Chatra,20-29,164,97,67,101,67,34
+96,District-Chatra,30-39,120,80,40,87,57,30
+97,District-Chatra,40-49,108,69,39,66,39,27
+98,District-Chatra,50-59,56,38,18,42,28,14
+99,District-Chatra,60-69,50,23,27,24,12,12
+100,District-Chatra,70-79,13,9,4,4,2,2
+101,District-Chatra,80-89,2,1,1,4,2,2
+102,District-Chatra,90+,0,0,0,1,1,0
+103,District-Chatra,Age Not Stated,0,0,0,0,0,0
+104,District-Chatra,Total,83,51,32,66,41,25
+105,District-Chatra,0-4,1,1,0,1,0,1
+106,District-Chatra,5-9,11,6,5,4,1,3
+107,District-Chatra,10-19,17,10,7,14,7,7
+108,District-Chatra,20-29,18,11,7,14,7,7
+109,District-Chatra,30-39,13,8,5,13,11,2
+110,District-Chatra,40-49,10,6,4,9,6,3
+111,District-Chatra,50-59,7,5,2,6,6,0
+112,District-Chatra,60-69,5,4,1,2,0,2
+113,District-Chatra,70-79,0,0,0,2,2,0
+114,District-Chatra,80-89,0,0,0,1,1,0
+115,District-Chatra,90+,1,0,1,0,0,0
+116,District-Chatra,Age Not Stated,0,0,0,0,0,0
+117,District-Kodarma,Total,688,417,271,374,227,147
+118,District-Kodarma,0-4,21,12,9,6,2,4
+119,District-Kodarma,5-9,56,36,20,28,18,10
+120,District-Kodarma,10-19,187,107,80,80,50,30
+121,District-Kodarma,20-29,132,78,54,74,44,30
+122,District-Kodarma,30-39,125,86,39,70,49,21
+123,District-Kodarma,40-49,75,48,27,43,27,16
+124,District-Kodarma,50-59,52,26,26,38,19,19
+125,District-Kodarma,60-69,29,18,11,22,10,12
+126,District-Kodarma,70-79,6,4,2,9,5,4
+127,District-Kodarma,80-89,5,2,3,3,2,1
+128,District-Kodarma,90+,0,0,0,1,1,0
+129,District-Kodarma,Age Not Stated,0,0,0,0,0,0
+130,District-Kodarma,Total,529,314,215,314,184,130
+131,District-Kodarma,0-4,19,10,9,5,1,4
+132,District-Kodarma,5-9,43,27,16,25,15,10
+133,District-Kodarma,10-19,132,73,59,70,44,26
+134,District-Kodarma,20-29,104,56,48,63,37,26
+135,District-Kodarma,30-39,94,63,31,56,38,18
+136,District-Kodarma,40-49,62,40,22,31,19,12
+137,District-Kodarma,50-59,45,26,19,36,18,18
+138,District-Kodarma,60-69,24,15,9,18,7,11
+139,District-Kodarma,70-79,4,3,1,6,2,4
+140,District-Kodarma,80-89,2,1,1,3,2,1
+141,District-Kodarma,90+,0,0,0,1,1,0
+142,District-Kodarma,Age Not Stated,0,0,0,0,0,0
+143,District-Kodarma,Total,159,103,56,60,43,17
+144,District-Kodarma,0-4,2,2,0,1,1,0
+145,District-Kodarma,5-9,13,9,4,3,3,0
+146,District-Kodarma,10-19,55,34,21,10,6,4
+147,District-Kodarma,20-29,28,22,6,11,7,4
+148,District-Kodarma,30-39,31,23,8,14,11,3
+149,District-Kodarma,40-49,13,8,5,12,8,4
+150,District-Kodarma,50-59,7,0,7,2,1,1
+151,District-Kodarma,60-69,5,3,2,4,3,1
+152,District-Kodarma,70-79,2,1,1,3,3,0
+153,District-Kodarma,80-89,3,1,2,0,0,0
+154,District-Kodarma,90+,0,0,0,0,0,0
+155,District-Kodarma,Age Not Stated,0,0,0,0,0,0
+156,District-Giridih,Total,"2,292","1,358",934,"1,263",731,532
+157,District-Giridih,0-4,74,36,38,38,20,18
+158,District-Giridih,5-9,212,122,90,81,50,31
+159,District-Giridih,10-19,675,375,300,265,140,125
+160,District-Giridih,20-29,475,302,173,244,135,109
+161,District-Giridih,30-39,330,196,134,224,139,85
+162,District-Giridih,40-49,242,162,80,186,122,64
+163,District-Giridih,50-59,132,86,46,102,58,44
+164,District-Giridih,60-69,113,61,52,79,45,34
+165,District-Giridih,70-79,26,10,16,33,13,20
+166,District-Giridih,80-89,7,3,4,8,6,2
+167,District-Giridih,90+,4,3,1,2,2,0
+168,District-Giridih,Age Not Stated,2,2,0,1,1,0
+169,District-Giridih,Total,"2,107","1,240",867,"1,145",661,484
+170,District-Giridih,0-4,69,32,37,36,20,16
+171,District-Giridih,5-9,197,111,86,76,47,29
+172,District-Giridih,10-19,618,344,274,246,128,118
+173,District-Giridih,20-29,435,275,160,220,127,93
+174,District-Giridih,30-39,302,178,124,193,120,73
+175,District-Giridih,40-49,219,145,74,167,108,59
+176,District-Giridih,50-59,120,78,42,94,52,42
+177,District-Giridih,60-69,110,60,50,75,42,33
+178,District-Giridih,70-79,25,10,15,29,10,19
+179,District-Giridih,80-89,7,3,4,6,4,2
+180,District-Giridih,90+,3,2,1,2,2,0
+181,District-Giridih,Age Not Stated,2,2,0,1,1,0
+182,District-Giridih,Total,185,118,67,118,70,48
+183,District-Giridih,0-4,5,4,1,2,0,2
+184,District-Giridih,5-9,15,11,4,5,3,2
+185,District-Giridih,10-19,57,31,26,19,12,7
+186,District-Giridih,20-29,40,27,13,24,8,16
+187,District-Giridih,30-39,28,18,10,31,19,12
+188,District-Giridih,40-49,23,17,6,19,14,5
+189,District-Giridih,50-59,12,8,4,8,6,2
+190,District-Giridih,60-69,3,1,2,4,3,1
+191,District-Giridih,70-79,1,0,1,4,3,1
+192,District-Giridih,80-89,0,0,0,2,2,0
+193,District-Giridih,90+,1,1,0,0,0,0
+194,District-Giridih,Age Not Stated,0,0,0,0,0,0
+195,District-Deoghar,Total,"1,700","1,014",686,729,446,283
+196,District-Deoghar,0-4,88,36,52,19,10,9
+197,District-Deoghar,5-9,166,89,77,42,21,21
+198,District-Deoghar,10-19,432,250,182,130,70,60
+199,District-Deoghar,20-29,323,204,119,138,87,51
+200,District-Deoghar,30-39,264,154,110,148,100,48
+201,District-Deoghar,40-49,183,128,55,99,61,38
+202,District-Deoghar,50-59,116,75,41,80,48,32
+203,District-Deoghar,60-69,84,50,34,55,36,19
+204,District-Deoghar,70-79,37,23,14,14,10,4
+205,District-Deoghar,80-89,4,4,0,1,1,0
+206,District-Deoghar,90+,1,0,1,1,0,1
+207,District-Deoghar,Age Not Stated,2,1,1,2,2,0
+208,District-Deoghar,Total,"1,383",810,573,612,366,246
+209,District-Deoghar,0-4,71,24,47,16,7,9
+210,District-Deoghar,5-9,143,76,67,34,20,14
+211,District-Deoghar,10-19,363,210,153,109,58,51
+212,District-Deoghar,20-29,257,159,98,117,73,44
+213,District-Deoghar,30-39,216,129,87,124,81,43
+214,District-Deoghar,40-49,139,93,46,81,49,32
+215,District-Deoghar,50-59,84,55,29,67,37,30
+216,District-Deoghar,60-69,74,42,32,49,31,18
+217,District-Deoghar,70-79,30,18,12,11,7,4
+218,District-Deoghar,80-89,3,3,0,1,1,0
+219,District-Deoghar,90+,1,0,1,1,0,1
+220,District-Deoghar,Age Not Stated,2,1,1,2,2,0
+221,District-Deoghar,Total,317,204,113,117,80,37
+222,District-Deoghar,0-4,17,12,5,3,3,0
+223,District-Deoghar,5-9,23,13,10,8,1,7
+224,District-Deoghar,10-19,69,40,29,21,12,9
+225,District-Deoghar,20-29,66,45,21,21,14,7
+226,District-Deoghar,30-39,48,25,23,24,19,5
+227,District-Deoghar,40-49,44,35,9,18,12,6
+228,District-Deoghar,50-59,32,20,12,13,11,2
+229,District-Deoghar,60-69,10,8,2,6,5,1
+230,District-Deoghar,70-79,7,5,2,3,3,0
+231,District-Deoghar,80-89,1,1,0,0,0,0
+232,District-Deoghar,90+,0,0,0,0,0,0
+233,District-Deoghar,Age Not Stated,0,0,0,0,0,0
+234,District-Godda,Total,"1,850","1,067",783,645,376,269
+235,District-Godda,0-4,130,67,63,13,7,6
+236,District-Godda,5-9,218,116,102,43,20,23
+237,District-Godda,10-19,460,274,186,116,68,48
+238,District-Godda,20-29,310,194,116,103,62,41
+239,District-Godda,30-39,298,165,133,128,80,48
+240,District-Godda,40-49,191,117,74,88,46,42
+241,District-Godda,50-59,122,78,44,58,39,19
+242,District-Godda,60-69,88,39,49,67,36,31
+243,District-Godda,70-79,21,12,9,21,13,8
+244,District-Godda,80-89,10,4,6,6,3,3
+245,District-Godda,90+,2,1,1,1,1,0
+246,District-Godda,Age Not Stated,0,0,0,1,1,0
+247,District-Godda,Total,"1,793","1,029",764,612,352,260
+248,District-Godda,0-4,128,65,63,13,7,6
+249,District-Godda,5-9,214,114,100,41,19,22
+250,District-Godda,10-19,445,265,180,110,66,44
+251,District-Godda,20-29,300,187,113,97,57,40
+252,District-Godda,30-39,286,156,130,122,75,47
+253,District-Godda,40-49,181,110,71,84,43,41
+254,District-Godda,50-59,121,77,44,54,36,18
+255,District-Godda,60-69,86,38,48,65,34,31
+256,District-Godda,70-79,21,12,9,19,11,8
+257,District-Godda,80-89,9,4,5,6,3,3
+258,District-Godda,90+,2,1,1,1,1,0
+259,District-Godda,Age Not Stated,0,0,0,0,0,0
+260,District-Godda,Total,57,38,19,33,24,9
+261,District-Godda,0-4,2,2,0,0,0,0
+262,District-Godda,5-9,4,2,2,2,1,1
+263,District-Godda,10-19,15,9,6,6,2,4
+264,District-Godda,20-29,10,7,3,6,5,1
+265,District-Godda,30-39,12,9,3,6,5,1
+266,District-Godda,40-49,10,7,3,4,3,1
+267,District-Godda,50-59,1,1,0,4,3,1
+268,District-Godda,60-69,2,1,1,2,2,0
+269,District-Godda,70-79,0,0,0,2,2,0
+270,District-Godda,80-89,1,0,1,0,0,0
+271,District-Godda,90+,0,0,0,0,0,0
+272,District-Godda,Age Not Stated,0,0,0,1,1,0
+273,District-Sahibganj,Total,"1,724",957,767,486,257,229
+274,District-Sahibganj,0-4,116,67,49,14,7,7
+275,District-Sahibganj,5-9,202,105,97,31,14,17
+276,District-Sahibganj,10-19,449,257,192,118,58,60
+277,District-Sahibganj,20-29,314,177,137,97,65,32
+278,District-Sahibganj,30-39,237,134,103,76,44,32
+279,District-Sahibganj,40-49,187,106,81,64,29,35
+280,District-Sahibganj,50-59,111,58,53,43,22,21
+281,District-Sahibganj,60-69,72,32,40,26,12,14
+282,District-Sahibganj,70-79,20,13,7,11,4,7
+283,District-Sahibganj,80-89,7,3,4,3,1,2
+284,District-Sahibganj,90+,2,0,2,1,0,1
+285,District-Sahibganj,Age Not Stated,7,5,2,2,1,1
+286,District-Sahibganj,Total,"1,469",788,681,383,192,191
+287,District-Sahibganj,0-4,102,62,40,9,5,4
+288,District-Sahibganj,5-9,181,90,91,29,13,16
+289,District-Sahibganj,10-19,382,209,173,97,47,50
+290,District-Sahibganj,20-29,261,146,115,76,47,29
+291,District-Sahibganj,30-39,205,112,93,54,30,24
+292,District-Sahibganj,40-49,150,79,71,52,21,31
+293,District-Sahibganj,50-59,92,46,46,28,14,14
+294,District-Sahibganj,60-69,67,29,38,26,12,14
+295,District-Sahibganj,70-79,16,9,7,9,2,7
+296,District-Sahibganj,80-89,7,3,4,2,1,1
+297,District-Sahibganj,90+,2,0,2,1,0,1
+298,District-Sahibganj,Age Not Stated,4,3,1,0,0,0
+299,District-Sahibganj,Total,255,169,86,103,65,38
+300,District-Sahibganj,0-4,14,5,9,5,2,3
+301,District-Sahibganj,5-9,21,15,6,2,1,1
+302,District-Sahibganj,10-19,67,48,19,21,11,10
+303,District-Sahibganj,20-29,53,31,22,21,18,3
+304,District-Sahibganj,30-39,32,22,10,22,14,8
+305,District-Sahibganj,40-49,37,27,10,12,8,4
+306,District-Sahibganj,50-59,19,12,7,15,8,7
+307,District-Sahibganj,60-69,5,3,2,0,0,0
+308,District-Sahibganj,70-79,4,4,0,2,2,0
+309,District-Sahibganj,80-89,0,0,0,1,0,1
+310,District-Sahibganj,90+,0,0,0,0,0,0
+311,District-Sahibganj,Age Not Stated,3,2,1,2,1,1
+312,District-Pakur,Total,980,534,446,495,266,229
+313,District-Pakur,0-4,56,26,30,7,2,5
+314,District-Pakur,5-9,104,60,44,23,13,10
+315,District-Pakur,10-19,262,136,126,90,44,46
+316,District-Pakur,20-29,182,108,74,95,48,47
+317,District-Pakur,30-39,151,82,69,100,56,44
+318,District-Pakur,40-49,104,62,42,78,50,28
+319,District-Pakur,50-59,56,31,25,58,29,29
+320,District-Pakur,60-69,47,22,25,27,15,12
+321,District-Pakur,70-79,13,5,8,10,6,4
+322,District-Pakur,80-89,1,0,1,6,2,4
+323,District-Pakur,90+,3,2,1,1,1,0
+324,District-Pakur,Age Not Stated,1,0,1,0,0,0
+325,District-Pakur,Total,898,489,409,441,235,206
+326,District-Pakur,0-4,54,25,29,5,1,4
+327,District-Pakur,5-9,98,55,43,20,11,9
+328,District-Pakur,10-19,246,125,121,83,39,44
+329,District-Pakur,20-29,161,98,63,86,45,41
+330,District-Pakur,30-39,139,76,63,89,49,40
+331,District-Pakur,40-49,92,54,38,71,46,25
+332,District-Pakur,50-59,48,27,21,50,24,26
+333,District-Pakur,60-69,45,22,23,23,13,10
+334,District-Pakur,70-79,10,5,5,8,4,4
+335,District-Pakur,80-89,1,0,1,5,2,3
+336,District-Pakur,90+,3,2,1,1,1,0
+337,District-Pakur,Age Not Stated,1,0,1,0,0,0
+338,District-Pakur,Total,82,45,37,54,31,23
+339,District-Pakur,0-4,2,1,1,2,1,1
+340,District-Pakur,5-9,6,5,1,3,2,1
+341,District-Pakur,10-19,16,11,5,7,5,2
+342,District-Pakur,20-29,21,10,11,9,3,6
+343,District-Pakur,30-39,12,6,6,11,7,4
+344,District-Pakur,40-49,12,8,4,7,4,3
+345,District-Pakur,50-59,8,4,4,8,5,3
+346,District-Pakur,60-69,2,0,2,4,2,2
+347,District-Pakur,70-79,3,0,3,2,2,0
+348,District-Pakur,80-89,0,0,0,1,0,1
+349,District-Pakur,90+,0,0,0,0,0,0
+350,District-Pakur,Age Not Stated,0,0,0,0,0,0
+351,District-Dhanbad,Total,"2,822","1,696","1,126","1,404",884,520
+352,District-Dhanbad,0-4,115,54,61,23,18,5
+353,District-Dhanbad,5-9,244,146,98,70,39,31
+354,District-Dhanbad,10-19,831,463,368,267,163,104
+355,District-Dhanbad,20-29,584,368,216,303,193,110
+356,District-Dhanbad,30-39,392,253,139,262,170,92
+357,District-Dhanbad,40-49,290,181,109,256,177,79
+358,District-Dhanbad,50-59,178,110,68,113,62,51
+359,District-Dhanbad,60-69,104,69,35,65,37,28
+360,District-Dhanbad,70-79,32,18,14,27,15,12
+361,District-Dhanbad,80-89,7,3,4,4,2,2
+362,District-Dhanbad,90+,5,5,0,0,0,0
+363,District-Dhanbad,Age Not Stated,40,26,14,14,8,6
+364,District-Dhanbad,Total,"1,247",742,505,680,422,258
+365,District-Dhanbad,0-4,57,27,30,9,7,2
+366,District-Dhanbad,5-9,104,59,45,28,16,12
+367,District-Dhanbad,10-19,396,226,170,114,71,43
+368,District-Dhanbad,20-29,243,148,95,145,92,53
+369,District-Dhanbad,30-39,178,125,53,140,88,52
+370,District-Dhanbad,40-49,123,78,45,135,88,47
+371,District-Dhanbad,50-59,72,35,37,57,28,29
+372,District-Dhanbad,60-69,41,25,16,34,21,13
+373,District-Dhanbad,70-79,16,8,8,10,5,5
+374,District-Dhanbad,80-89,5,2,3,2,1,1
+375,District-Dhanbad,90+,3,3,0,0,0,0
+376,District-Dhanbad,Age Not Stated,9,6,3,6,5,1
+377,District-Dhanbad,Total,"1,575",954,621,724,462,262
+378,District-Dhanbad,0-4,58,27,31,14,11,3
+379,District-Dhanbad,5-9,140,87,53,42,23,19
+380,District-Dhanbad,10-19,435,237,198,153,92,61
+381,District-Dhanbad,20-29,341,220,121,158,101,57
+382,District-Dhanbad,30-39,214,128,86,122,82,40
+383,District-Dhanbad,40-49,167,103,64,121,89,32
+384,District-Dhanbad,50-59,106,75,31,56,34,22
+385,District-Dhanbad,60-69,63,44,19,31,16,15
+386,District-Dhanbad,70-79,16,10,6,17,10,7
+387,District-Dhanbad,80-89,2,1,1,2,1,1
+388,District-Dhanbad,90+,2,2,0,0,0,0
+389,District-Dhanbad,Age Not Stated,31,20,11,8,3,5
+390,District-Bokaro,Total,"3,522","1,936","1,586","1,326",798,528
+391,District-Bokaro,0-4,181,90,91,19,10,9
+392,District-Bokaro,5-9,338,175,163,69,35,34
+393,District-Bokaro,10-19,886,475,411,279,166,113
+394,District-Bokaro,20-29,793,435,358,275,163,112
+395,District-Bokaro,30-39,542,304,238,263,179,84
+396,District-Bokaro,40-49,335,205,130,205,122,83
+397,District-Bokaro,50-59,246,138,108,110,49,61
+398,District-Bokaro,60-69,135,81,54,70,47,23
+399,District-Bokaro,70-79,43,20,23,28,23,5
+400,District-Bokaro,80-89,5,3,2,4,1,3
+401,District-Bokaro,90+,1,0,1,1,1,0
+402,District-Bokaro,Age Not Stated,17,10,7,3,2,1
+403,District-Bokaro,Total,"1,856",974,882,725,432,293
+404,District-Bokaro,0-4,98,48,50,16,9,7
+405,District-Bokaro,5-9,218,111,107,38,20,18
+406,District-Bokaro,10-19,491,249,242,147,87,60
+407,District-Bokaro,20-29,372,200,172,145,81,64
+408,District-Bokaro,30-39,268,134,134,136,90,46
+409,District-Bokaro,40-49,169,99,70,122,73,49
+410,District-Bokaro,50-59,125,65,60,60,29,31
+411,District-Bokaro,60-69,76,48,28,45,29,16
+412,District-Bokaro,70-79,28,13,15,12,11,1
+413,District-Bokaro,80-89,1,0,1,2,1,1
+414,District-Bokaro,90+,1,0,1,0,0,0
+415,District-Bokaro,Age Not Stated,9,7,2,2,2,0
+416,District-Bokaro,Total,"1,666",962,704,601,366,235
+417,District-Bokaro,0-4,83,42,41,3,1,2
+418,District-Bokaro,5-9,120,64,56,31,15,16
+419,District-Bokaro,10-19,395,226,169,132,79,53
+420,District-Bokaro,20-29,421,235,186,130,82,48
+421,District-Bokaro,30-39,274,170,104,127,89,38
+422,District-Bokaro,40-49,166,106,60,83,49,34
+423,District-Bokaro,50-59,121,73,48,50,20,30
+424,District-Bokaro,60-69,59,33,26,25,18,7
+425,District-Bokaro,70-79,15,7,8,16,12,4
+426,District-Bokaro,80-89,4,3,1,2,0,2
+427,District-Bokaro,90+,0,0,0,1,1,0
+428,District-Bokaro,Age Not Stated,8,3,5,1,0,1
+429,District-Lohardaga,Total,576,314,262,340,198,142
+430,District-Lohardaga,0-4,21,13,8,3,3,0
+431,District-Lohardaga,5-9,61,41,20,13,9,4
+432,District-Lohardaga,10-19,167,84,83,65,39,26
+433,District-Lohardaga,20-29,101,48,53,63,41,22
+434,District-Lohardaga,30-39,85,48,37,61,31,30
+435,District-Lohardaga,40-49,68,40,28,58,38,20
+436,District-Lohardaga,50-59,37,23,14,35,17,18
+437,District-Lohardaga,60-69,28,12,16,29,13,16
+438,District-Lohardaga,70-79,6,3,3,7,4,3
+439,District-Lohardaga,80-89,1,1,0,4,2,2
+440,District-Lohardaga,90+,0,0,0,2,1,1
+441,District-Lohardaga,Age Not Stated,1,1,0,0,0,0
+442,District-Lohardaga,Total,435,242,193,293,168,125
+443,District-Lohardaga,0-4,16,12,4,2,2,0
+444,District-Lohardaga,5-9,48,35,13,12,8,4
+445,District-Lohardaga,10-19,139,69,70,59,37,22
+446,District-Lohardaga,20-29,75,33,42,52,33,19
+447,District-Lohardaga,30-39,52,35,17,50,25,25
+448,District-Lohardaga,40-49,54,31,23,51,31,20
+449,District-Lohardaga,50-59,24,14,10,31,15,16
+450,District-Lohardaga,60-69,21,9,12,25,11,14
+451,District-Lohardaga,70-79,5,3,2,6,3,3
+452,District-Lohardaga,80-89,1,1,0,3,2,1
+453,District-Lohardaga,90+,0,0,0,2,1,1
+454,District-Lohardaga,Age Not Stated,0,0,0,0,0,0
+455,District-Lohardaga,Total,141,72,69,47,30,17
+456,District-Lohardaga,0-4,5,1,4,1,1,0
+457,District-Lohardaga,5-9,13,6,7,1,1,0
+458,District-Lohardaga,10-19,28,15,13,6,2,4
+459,District-Lohardaga,20-29,26,15,11,11,8,3
+460,District-Lohardaga,30-39,33,13,20,11,6,5
+461,District-Lohardaga,40-49,14,9,5,7,7,0
+462,District-Lohardaga,50-59,13,9,4,4,2,2
+463,District-Lohardaga,60-69,7,3,4,4,2,2
+464,District-Lohardaga,70-79,1,0,1,1,1,0
+465,District-Lohardaga,80-89,0,0,0,1,0,1
+466,District-Lohardaga,90+,0,0,0,0,0,0
+467,District-Lohardaga,Age Not Stated,1,1,0,0,0,0
+468,District-Purbi Singhbhum,Total,"1,935","1,083",852,"1,325",723,602
+469,District-Purbi Singhbhum,0-4,45,23,22,13,11,2
+470,District-Purbi Singhbhum,5-9,142,81,61,34,23,11
+471,District-Purbi Singhbhum,10-19,484,289,195,163,96,67
+472,District-Purbi Singhbhum,20-29,439,239,200,279,152,127
+473,District-Purbi Singhbhum,30-39,337,201,136,280,161,119
+474,District-Purbi Singhbhum,40-49,232,132,100,265,136,129
+475,District-Purbi Singhbhum,50-59,149,82,67,159,87,72
+476,District-Purbi Singhbhum,60-69,63,22,41,92,41,51
+477,District-Purbi Singhbhum,70-79,33,9,24,30,12,18
+478,District-Purbi Singhbhum,80-89,7,2,5,9,4,5
+479,District-Purbi Singhbhum,90+,3,2,1,1,0,1
+480,District-Purbi Singhbhum,Age Not Stated,1,1,0,0,0,0
+481,District-Purbi Singhbhum,Total,933,493,440,731,377,354
+482,District-Purbi Singhbhum,0-4,30,15,15,3,3,0
+483,District-Purbi Singhbhum,5-9,77,46,31,22,13,9
+484,District-Purbi Singhbhum,10-19,243,132,111,79,44,35
+485,District-Purbi Singhbhum,20-29,201,112,89,143,74,69
+486,District-Purbi Singhbhum,30-39,123,60,63,163,87,76
+487,District-Purbi Singhbhum,40-49,128,69,59,156,77,79
+488,District-Purbi Singhbhum,50-59,77,42,35,88,43,45
+489,District-Purbi Singhbhum,60-69,36,11,25,56,25,31
+490,District-Purbi Singhbhum,70-79,13,3,10,15,7,8
+491,District-Purbi Singhbhum,80-89,3,2,1,5,4,1
+492,District-Purbi Singhbhum,90+,2,1,1,1,0,1
+493,District-Purbi Singhbhum,Age Not Stated,0,0,0,0,0,0
+494,District-Purbi Singhbhum,Total,"1,002",590,412,594,346,248
+495,District-Purbi Singhbhum,0-4,15,8,7,10,8,2
+496,District-Purbi Singhbhum,5-9,65,35,30,12,10,2
+497,District-Purbi Singhbhum,10-19,241,157,84,84,52,32
+498,District-Purbi Singhbhum,20-29,238,127,111,136,78,58
+499,District-Purbi Singhbhum,30-39,214,141,73,117,74,43
+500,District-Purbi Singhbhum,40-49,104,63,41,109,59,50
+501,District-Purbi Singhbhum,50-59,72,40,32,71,44,27
+502,District-Purbi Singhbhum,60-69,27,11,16,36,16,20
+503,District-Purbi Singhbhum,70-79,20,6,14,15,5,10
+504,District-Purbi Singhbhum,80-89,4,0,4,4,0,4
+505,District-Purbi Singhbhum,90+,1,1,0,0,0,0
+506,District-Purbi Singhbhum,Age Not Stated,1,1,0,0,0,0
+507,District-Palamu,Total,"3,048","1,862","1,186","2,050","1,193",857
+508,District-Palamu,0-4,89,44,45,20,13,7
+509,District-Palamu,5-9,278,167,111,103,59,44
+510,District-Palamu,10-19,840,516,324,343,197,146
+511,District-Palamu,20-29,537,334,203,400,247,153
+512,District-Palamu,30-39,477,294,183,381,224,157
+513,District-Palamu,40-49,393,255,138,349,221,128
+514,District-Palamu,50-59,223,133,90,203,101,102
+515,District-Palamu,60-69,140,78,62,160,81,79
+516,District-Palamu,70-79,54,33,21,67,39,28
+517,District-Palamu,80-89,13,7,6,19,9,10
+518,District-Palamu,90+,4,1,3,5,2,3
+519,District-Palamu,Age Not Stated,0,0,0,0,0,0
+520,District-Palamu,Total,"2,743","1,667","1,076","1,874","1,076",798
+521,District-Palamu,0-4,78,38,40,18,11,7
+522,District-Palamu,5-9,257,155,102,97,55,42
+523,District-Palamu,10-19,774,473,301,316,179,137
+524,District-Palamu,20-29,469,294,175,354,218,136
+525,District-Palamu,30-39,424,255,169,346,200,146
+526,District-Palamu,40-49,340,218,122,320,201,119
+527,District-Palamu,50-59,205,123,82,186,90,96
+528,District-Palamu,60-69,130,71,59,149,73,76
+529,District-Palamu,70-79,50,32,18,66,39,27
+530,District-Palamu,80-89,12,7,5,17,8,9
+531,District-Palamu,90+,4,1,3,5,2,3
+532,District-Palamu,Age Not Stated,0,0,0,0,0,0
+533,District-Palamu,Total,305,195,110,176,117,59
+534,District-Palamu,0-4,11,6,5,2,2,0
+535,District-Palamu,5-9,21,12,9,6,4,2
+536,District-Palamu,10-19,66,43,23,27,18,9
+537,District-Palamu,20-29,68,40,28,46,29,17
+538,District-Palamu,30-39,53,39,14,35,24,11
+539,District-Palamu,40-49,53,37,16,29,20,9
+540,District-Palamu,50-59,18,10,8,17,11,6
+541,District-Palamu,60-69,10,7,3,11,8,3
+542,District-Palamu,70-79,4,1,3,1,0,1
+543,District-Palamu,80-89,1,0,1,2,1,1
+544,District-Palamu,90+,0,0,0,0,0,0
+545,District-Palamu,Age Not Stated,0,0,0,0,0,0
+546,District-Latehar,Total,593,344,249,396,219,177
+547,District-Latehar,0-4,22,9,13,9,4,5
+548,District-Latehar,5-9,58,29,29,18,12,6
+549,District-Latehar,10-19,176,106,70,85,50,35
+550,District-Latehar,20-29,108,68,40,74,40,34
+551,District-Latehar,30-39,82,48,34,83,49,34
+552,District-Latehar,40-49,69,37,32,47,19,28
+553,District-Latehar,50-59,37,22,15,43,27,16
+554,District-Latehar,60-69,29,18,11,31,14,17
+555,District-Latehar,70-79,9,6,3,4,3,1
+556,District-Latehar,80-89,1,0,1,0,0,0
+557,District-Latehar,90+,2,1,1,2,1,1
+558,District-Latehar,Age Not Stated,0,0,0,0,0,0
+559,District-Latehar,Total,547,321,226,361,198,163
+560,District-Latehar,0-4,20,8,12,9,4,5
+561,District-Latehar,5-9,51,27,24,17,12,5
+562,District-Latehar,10-19,170,103,67,81,48,33
+563,District-Latehar,20-29,98,63,35,69,38,31
+564,District-Latehar,30-39,77,46,31,71,41,30
+565,District-Latehar,40-49,60,31,29,42,16,26
+566,District-Latehar,50-59,34,21,13,37,22,15
+567,District-Latehar,60-69,28,17,11,29,13,16
+568,District-Latehar,70-79,7,4,3,4,3,1
+569,District-Latehar,80-89,0,0,0,0,0,0
+570,District-Latehar,90+,2,1,1,2,1,1
+571,District-Latehar,Age Not Stated,0,0,0,0,0,0
+572,District-Latehar,Total,46,23,23,35,21,14
+573,District-Latehar,0-4,2,1,1,0,0,0
+574,District-Latehar,5-9,7,2,5,1,0,1
+575,District-Latehar,10-19,6,3,3,4,2,2
+576,District-Latehar,20-29,10,5,5,5,2,3
+577,District-Latehar,30-39,5,2,3,12,8,4
+578,District-Latehar,40-49,9,6,3,5,3,2
+579,District-Latehar,50-59,3,1,2,6,5,1
+580,District-Latehar,60-69,1,1,0,2,1,1
+581,District-Latehar,70-79,2,2,0,0,0,0
+582,District-Latehar,80-89,1,0,1,0,0,0
+583,District-Latehar,90+,0,0,0,0,0,0
+584,District-Latehar,Age Not Stated,0,0,0,0,0,0
+585,District-Hazaribagh,Total,"2,138","1,314",824,"1,139",704,435
+586,District-Hazaribagh,0-4,48,27,21,24,12,12
+587,District-Hazaribagh,5-9,210,134,76,71,41,30
+588,District-Hazaribagh,10-19,680,399,281,256,154,102
+589,District-Hazaribagh,20-29,376,224,152,223,149,74
+590,District-Hazaribagh,30-39,325,212,113,204,126,78
+591,District-Hazaribagh,40-49,240,150,90,173,108,65
+592,District-Hazaribagh,50-59,106,73,33,77,52,25
+593,District-Hazaribagh,60-69,92,58,34,74,44,30
+594,District-Hazaribagh,70-79,52,30,22,31,15,16
+595,District-Hazaribagh,80-89,6,4,2,5,2,3
+596,District-Hazaribagh,90+,2,2,0,1,1,0
+597,District-Hazaribagh,Age Not Stated,1,1,0,0,0,0
+598,District-Hazaribagh,Total,"1,850","1,132",718,961,585,376
+599,District-Hazaribagh,0-4,44,25,19,22,11,11
+600,District-Hazaribagh,5-9,190,123,67,66,40,26
+601,District-Hazaribagh,10-19,598,354,244,225,136,89
+602,District-Hazaribagh,20-29,317,190,127,183,123,60
+603,District-Hazaribagh,30-39,272,174,98,167,99,68
+604,District-Hazaribagh,40-49,203,125,78,142,86,56
+605,District-Hazaribagh,50-59,89,58,31,62,41,21
+606,District-Hazaribagh,60-69,79,49,30,60,34,26
+607,District-Hazaribagh,70-79,51,29,22,28,12,16
+608,District-Hazaribagh,80-89,4,2,2,5,2,3
+609,District-Hazaribagh,90+,2,2,0,1,1,0
+610,District-Hazaribagh,Age Not Stated,1,1,0,0,0,0
+611,District-Hazaribagh,Total,288,182,106,178,119,59
+612,District-Hazaribagh,0-4,4,2,2,2,1,1
+613,District-Hazaribagh,5-9,20,11,9,5,1,4
+614,District-Hazaribagh,10-19,82,45,37,31,18,13
+615,District-Hazaribagh,20-29,59,34,25,40,26,14
+616,District-Hazaribagh,30-39,53,38,15,37,27,10
+617,District-Hazaribagh,40-49,37,25,12,31,22,9
+618,District-Hazaribagh,50-59,17,15,2,15,11,4
+619,District-Hazaribagh,60-69,13,9,4,14,10,4
+620,District-Hazaribagh,70-79,1,1,0,3,3,0
+621,District-Hazaribagh,80-89,2,2,0,0,0,0
+622,District-Hazaribagh,90+,0,0,0,0,0,0
+623,District-Hazaribagh,Age Not Stated,0,0,0,0,0,0
+624,District-Ramgarh,Total,941,525,416,551,288,263
+625,District-Ramgarh,0-4,22,13,9,4,3,1
+626,District-Ramgarh,5-9,74,36,38,28,16,12
+627,District-Ramgarh,10-19,306,160,146,134,68,66
+628,District-Ramgarh,20-29,197,106,91,127,70,57
+629,District-Ramgarh,30-39,153,102,51,89,47,42
+630,District-Ramgarh,40-49,100,63,37,86,47,39
+631,District-Ramgarh,50-59,44,20,24,46,23,23
+632,District-Ramgarh,60-69,31,17,14,26,11,15
+633,District-Ramgarh,70-79,10,5,5,9,2,7
+634,District-Ramgarh,80-89,3,3,0,1,1,0
+635,District-Ramgarh,90+,0,0,0,1,0,1
+636,District-Ramgarh,Age Not Stated,1,0,1,0,0,0
+637,District-Ramgarh,Total,502,271,231,318,162,156
+638,District-Ramgarh,0-4,14,9,5,3,2,1
+639,District-Ramgarh,5-9,45,20,25,18,11,7
+640,District-Ramgarh,10-19,166,85,81,85,39,46
+641,District-Ramgarh,20-29,97,48,49,70,36,34
+642,District-Ramgarh,30-39,89,54,35,48,30,18
+643,District-Ramgarh,40-49,47,31,16,52,30,22
+644,District-Ramgarh,50-59,21,10,11,23,10,13
+645,District-Ramgarh,60-69,18,11,7,14,4,10
+646,District-Ramgarh,70-79,5,3,2,5,0,5
+647,District-Ramgarh,80-89,0,0,0,0,0,0
+648,District-Ramgarh,90+,0,0,0,0,0,0
+649,District-Ramgarh,Age Not Stated,0,0,0,0,0,0
+650,District-Ramgarh,Total,439,254,185,233,126,107
+651,District-Ramgarh,0-4,8,4,4,1,1,0
+652,District-Ramgarh,5-9,29,16,13,10,5,5
+653,District-Ramgarh,10-19,140,75,65,49,29,20
+654,District-Ramgarh,20-29,100,58,42,57,34,23
+655,District-Ramgarh,30-39,64,48,16,41,17,24
+656,District-Ramgarh,40-49,53,32,21,34,17,17
+657,District-Ramgarh,50-59,23,10,13,23,13,10
+658,District-Ramgarh,60-69,13,6,7,12,7,5
+659,District-Ramgarh,70-79,5,2,3,4,2,2
+660,District-Ramgarh,80-89,3,3,0,1,1,0
+661,District-Ramgarh,90+,0,0,0,1,0,1
+662,District-Ramgarh,Age Not Stated,1,0,1,0,0,0
+663,District-Dumka,Total,"1,623",925,698,688,378,310
+664,District-Dumka,0-4,91,48,43,9,5,4
+665,District-Dumka,5-9,180,99,81,34,23,11
+666,District-Dumka,10-19,382,226,156,118,57,61
+667,District-Dumka,20-29,300,157,143,130,75,55
+668,District-Dumka,30-39,250,155,95,136,76,60
+669,District-Dumka,40-49,194,118,76,127,75,52
+670,District-Dumka,50-59,110,65,45,64,38,26
+671,District-Dumka,60-69,84,41,43,49,22,27
+672,District-Dumka,70-79,23,13,10,16,5,11
+673,District-Dumka,80-89,5,2,3,4,2,2
+674,District-Dumka,90+,0,0,0,1,0,1
+675,District-Dumka,Age Not Stated,4,1,3,0,0,0
+676,District-Dumka,Total,"1,508",850,658,646,349,297
+677,District-Dumka,0-4,90,47,43,8,4,4
+678,District-Dumka,5-9,174,95,79,32,22,10
+679,District-Dumka,10-19,352,207,145,110,54,56
+680,District-Dumka,20-29,270,135,135,121,67,54
+681,District-Dumka,30-39,234,145,89,129,72,57
+682,District-Dumka,40-49,180,109,71,116,65,51
+683,District-Dumka,50-59,101,59,42,62,37,25
+684,District-Dumka,60-69,80,39,41,48,21,27
+685,District-Dumka,70-79,19,11,8,15,5,10
+686,District-Dumka,80-89,4,2,2,4,2,2
+687,District-Dumka,90+,0,0,0,1,0,1
+688,District-Dumka,Age Not Stated,4,1,3,0,0,0
+689,District-Dumka,Total,115,75,40,42,29,13
+690,District-Dumka,0-4,1,1,0,1,1,0
+691,District-Dumka,5-9,6,4,2,2,1,1
+692,District-Dumka,10-19,30,19,11,8,3,5
+693,District-Dumka,20-29,30,22,8,9,8,1
+694,District-Dumka,30-39,16,10,6,7,4,3
+695,District-Dumka,40-49,14,9,5,11,10,1
+696,District-Dumka,50-59,9,6,3,2,1,1
+697,District-Dumka,60-69,4,2,2,1,1,0
+698,District-Dumka,70-79,4,2,2,1,0,1
+699,District-Dumka,80-89,1,0,1,0,0,0
+700,District-Dumka,90+,0,0,0,0,0,0
+701,District-Dumka,Age Not Stated,0,0,0,0,0,0
+702,District-Jamtara,Total,"1,023",589,434,583,328,255
+703,District-Jamtara,0-4,50,35,15,5,4,1
+704,District-Jamtara,5-9,108,65,43,27,19,8
+705,District-Jamtara,10-19,257,139,118,83,43,40
+706,District-Jamtara,20-29,204,117,87,115,52,63
+707,District-Jamtara,30-39,141,87,54,114,69,45
+708,District-Jamtara,40-49,114,69,45,109,68,41
+709,District-Jamtara,50-59,77,40,37,67,33,34
+710,District-Jamtara,60-69,41,22,19,49,32,17
+711,District-Jamtara,70-79,18,9,9,12,7,5
+712,District-Jamtara,80-89,7,3,4,1,1,0
+713,District-Jamtara,90+,1,0,1,0,0,0
+714,District-Jamtara,Age Not Stated,5,3,2,1,0,1
+715,District-Jamtara,Total,962,558,404,543,307,236
+716,District-Jamtara,0-4,48,33,15,5,4,1
+717,District-Jamtara,5-9,102,61,41,25,17,8
+718,District-Jamtara,10-19,237,130,107,80,43,37
+719,District-Jamtara,20-29,191,110,81,106,49,57
+720,District-Jamtara,30-39,131,83,48,100,61,39
+721,District-Jamtara,40-49,112,68,44,105,65,40
+722,District-Jamtara,50-59,71,38,33,61,29,32
+723,District-Jamtara,60-69,39,20,19,48,31,17
+724,District-Jamtara,70-79,18,9,9,11,7,4
+725,District-Jamtara,80-89,7,3,4,1,1,0
+726,District-Jamtara,90+,1,0,1,0,0,0
+727,District-Jamtara,Age Not Stated,5,3,2,1,0,1
+728,District-Jamtara,Total,61,31,30,40,21,19
+729,District-Jamtara,0-4,2,2,0,0,0,0
+730,District-Jamtara,5-9,6,4,2,2,2,0
+731,District-Jamtara,10-19,20,9,11,3,0,3
+732,District-Jamtara,20-29,13,7,6,9,3,6
+733,District-Jamtara,30-39,10,4,6,14,8,6
+734,District-Jamtara,40-49,2,1,1,4,3,1
+735,District-Jamtara,50-59,6,2,4,6,4,2
+736,District-Jamtara,60-69,2,2,0,1,1,0
+737,District-Jamtara,70-79,0,0,0,1,0,1
+738,District-Jamtara,80-89,0,0,0,0,0,0
+739,District-Jamtara,90+,0,0,0,0,0,0
+740,District-Jamtara,Age Not Stated,0,0,0,0,0,0
+741,District-Ranchi,Total,"2,974","1,703","1,271","2,178","1,376",802
+742,District-Ranchi,0-4,123,73,50,15,6,9
+743,District-Ranchi,5-9,280,157,123,71,41,30
+744,District-Ranchi,10-19,827,461,366,300,187,113
+745,District-Ranchi,20-29,545,318,227,560,377,183
+746,District-Ranchi,30-39,449,263,186,518,323,195
+747,District-Ranchi,40-49,361,210,151,338,218,120
+748,District-Ranchi,50-59,187,112,75,182,104,78
+749,District-Ranchi,60-69,122,59,63,122,67,55
+750,District-Ranchi,70-79,34,19,15,36,26,10
+751,District-Ranchi,80-89,12,7,5,6,4,2
+752,District-Ranchi,90+,5,3,2,7,7,0
+753,District-Ranchi,Age Not Stated,29,21,8,23,16,7
+754,District-Ranchi,Total,"1,801","1,006",795,877,473,404
+755,District-Ranchi,0-4,76,44,32,8,2,6
+756,District-Ranchi,5-9,190,108,82,46,26,20
+757,District-Ranchi,10-19,534,300,234,164,90,74
+758,District-Ranchi,20-29,303,174,129,159,82,77
+759,District-Ranchi,30-39,242,130,112,168,86,82
+760,District-Ranchi,40-49,210,109,101,154,92,62
+761,District-Ranchi,50-59,111,67,44,89,52,37
+762,District-Ranchi,60-69,78,37,41,59,27,32
+763,District-Ranchi,70-79,26,14,12,19,10,9
+764,District-Ranchi,80-89,10,6,4,4,3,1
+765,District-Ranchi,90+,3,1,2,1,1,0
+766,District-Ranchi,Age Not Stated,18,16,2,6,2,4
+767,District-Ranchi,Total,"1,173",697,476,"1,301",903,398
+768,District-Ranchi,0-4,47,29,18,7,4,3
+769,District-Ranchi,5-9,90,49,41,25,15,10
+770,District-Ranchi,10-19,293,161,132,136,97,39
+771,District-Ranchi,20-29,242,144,98,401,295,106
+772,District-Ranchi,30-39,207,133,74,350,237,113
+773,District-Ranchi,40-49,151,101,50,184,126,58
+774,District-Ranchi,50-59,76,45,31,93,52,41
+775,District-Ranchi,60-69,44,22,22,63,40,23
+776,District-Ranchi,70-79,8,5,3,17,16,1
+777,District-Ranchi,80-89,2,1,1,2,1,1
+778,District-Ranchi,90+,2,2,0,6,6,0
+779,District-Ranchi,Age Not Stated,11,5,6,17,14,3
+780,District-Khunti,Total,465,231,234,353,193,160
+781,District-Khunti,0-4,19,11,8,4,3,1
+782,District-Khunti,5-9,36,20,16,10,3,7
+783,District-Khunti,10-19,134,57,77,44,29,15
+784,District-Khunti,20-29,98,61,37,80,49,31
+785,District-Khunti,30-39,57,31,26,68,33,35
+786,District-Khunti,40-49,58,27,31,66,38,28
+787,District-Khunti,50-59,23,11,12,39,16,23
+788,District-Khunti,60-69,26,9,17,35,18,17
+789,District-Khunti,70-79,11,4,7,6,3,3
+790,District-Khunti,80-89,2,0,2,0,0,0
+791,District-Khunti,90+,0,0,0,1,1,0
+792,District-Khunti,Age Not Stated,1,0,1,0,0,0
+793,District-Khunti,Total,419,208,211,306,168,138
+794,District-Khunti,0-4,17,10,7,4,3,1
+795,District-Khunti,5-9,29,17,12,10,3,7
+796,District-Khunti,10-19,127,54,73,37,25,12
+797,District-Khunti,20-29,87,54,33,70,41,29
+798,District-Khunti,30-39,44,25,19,59,30,29
+799,District-Khunti,40-49,54,25,29,59,34,25
+800,District-Khunti,50-59,23,11,12,29,12,17
+801,District-Khunti,60-69,25,8,17,33,17,16
+802,District-Khunti,70-79,10,4,6,4,2,2
+803,District-Khunti,80-89,2,0,2,0,0,0
+804,District-Khunti,90+,0,0,0,1,1,0
+805,District-Khunti,Age Not Stated,1,0,1,0,0,0
+806,District-Khunti,Total,46,23,23,47,25,22
+807,District-Khunti,0-4,2,1,1,0,0,0
+808,District-Khunti,5-9,7,3,4,0,0,0
+809,District-Khunti,10-19,7,3,4,7,4,3
+810,District-Khunti,20-29,11,7,4,10,8,2
+811,District-Khunti,30-39,13,6,7,9,3,6
+812,District-Khunti,40-49,4,2,2,7,4,3
+813,District-Khunti,50-59,0,0,0,10,4,6
+814,District-Khunti,60-69,1,1,0,2,1,1
+815,District-Khunti,70-79,1,0,1,2,1,1
+816,District-Khunti,80-89,0,0,0,0,0,0
+817,District-Khunti,90+,0,0,0,0,0,0
+818,District-Khunti,Age Not Stated,0,0,0,0,0,0
+819,District-Gumla,Total,"1,078",566,512,708,350,358
+820,District-Gumla,0-4,31,20,11,3,1,2
+821,District-Gumla,5-9,96,52,44,31,22,9
+822,District-Gumla,10-19,330,166,164,108,57,51
+823,District-Gumla,20-29,198,98,100,141,68,73
+824,District-Gumla,30-39,159,91,68,143,75,68
+825,District-Gumla,40-49,124,67,57,131,53,78
+826,District-Gumla,50-59,67,39,28,84,38,46
+827,District-Gumla,60-69,48,18,30,50,25,25
+828,District-Gumla,70-79,16,11,5,13,8,5
+829,District-Gumla,80-89,8,4,4,2,2,0
+830,District-Gumla,90+,1,0,1,2,1,1
+831,District-Gumla,Age Not Stated,0,0,0,0,0,0
+832,District-Gumla,Total,989,516,473,663,329,334
+833,District-Gumla,0-4,27,16,11,3,1,2
+834,District-Gumla,5-9,90,49,41,30,21,9
+835,District-Gumla,10-19,293,147,146,105,56,49
+836,District-Gumla,20-29,179,87,92,130,62,68
+837,District-Gumla,30-39,146,84,62,130,68,62
+838,District-Gumla,40-49,116,63,53,124,52,72
+839,District-Gumla,50-59,65,37,28,77,35,42
+840,District-Gumla,60-69,48,18,30,47,23,24
+841,District-Gumla,70-79,16,11,5,13,8,5
+842,District-Gumla,80-89,8,4,4,2,2,0
+843,District-Gumla,90+,1,0,1,2,1,1
+844,District-Gumla,Age Not Stated,0,0,0,0,0,0
+845,District-Gumla,Total,89,50,39,45,21,24
+846,District-Gumla,0-4,4,4,0,0,0,0
+847,District-Gumla,5-9,6,3,3,1,1,0
+848,District-Gumla,10-19,37,19,18,3,1,2
+849,District-Gumla,20-29,19,11,8,11,6,5
+850,District-Gumla,30-39,13,7,6,13,7,6
+851,District-Gumla,40-49,8,4,4,7,1,6
+852,District-Gumla,50-59,2,2,0,7,3,4
+853,District-Gumla,60-69,0,0,0,3,2,1
+854,District-Gumla,70-79,0,0,0,0,0,0
+855,District-Gumla,80-89,0,0,0,0,0,0
+856,District-Gumla,90+,0,0,0,0,0,0
+857,District-Gumla,Age Not Stated,0,0,0,0,0,0
+858,District-Simdega,Total,544,263,281,476,256,220
+859,District-Simdega,0-4,13,7,6,3,1,2
+860,District-Simdega,5-9,44,23,21,14,7,7
+861,District-Simdega,10-19,157,70,87,56,37,19
+862,District-Simdega,20-29,116,60,56,111,61,50
+863,District-Simdega,30-39,82,43,39,83,39,44
+864,District-Simdega,40-49,72,39,33,88,50,38
+865,District-Simdega,50-59,32,10,22,66,31,35
+866,District-Simdega,60-69,24,9,15,31,16,15
+867,District-Simdega,70-79,3,1,2,19,13,6
+868,District-Simdega,80-89,1,1,0,3,0,3
+869,District-Simdega,90+,0,0,0,1,1,0
+870,District-Simdega,Age Not Stated,0,0,0,1,0,1
+871,District-Simdega,Total,502,243,259,449,241,208
+872,District-Simdega,0-4,13,7,6,2,0,2
+873,District-Simdega,5-9,40,21,19,14,7,7
+874,District-Simdega,10-19,142,63,79,51,35,16
+875,District-Simdega,20-29,106,55,51,103,56,47
+876,District-Simdega,30-39,75,39,36,76,35,41
+877,District-Simdega,40-49,68,37,31,85,48,37
+878,District-Simdega,50-59,31,10,21,63,30,33
+879,District-Simdega,60-69,23,9,14,31,16,15
+880,District-Simdega,70-79,3,1,2,19,13,6
+881,District-Simdega,80-89,1,1,0,3,0,3
+882,District-Simdega,90+,0,0,0,1,1,0
+883,District-Simdega,Age Not Stated,0,0,0,1,0,1
+884,District-Simdega,Total,42,20,22,27,15,12
+885,District-Simdega,0-4,0,0,0,1,1,0
+886,District-Simdega,5-9,4,2,2,0,0,0
+887,District-Simdega,10-19,15,7,8,5,2,3
+888,District-Simdega,20-29,10,5,5,8,5,3
+889,District-Simdega,30-39,7,4,3,7,4,3
+890,District-Simdega,40-49,4,2,2,3,2,1
+891,District-Simdega,50-59,1,0,1,3,1,2
+892,District-Simdega,60-69,1,0,1,0,0,0
+893,District-Simdega,70-79,0,0,0,0,0,0
+894,District-Simdega,80-89,0,0,0,0,0,0
+895,District-Simdega,90+,0,0,0,0,0,0
+896,District-Simdega,Age Not Stated,0,0,0,0,0,0
+897,District-Pashchimi Singhbhum,Total,832,465,367,641,327,314
+898,District-Pashchimi Singhbhum,0-4,24,12,12,8,5,3
+899,District-Pashchimi Singhbhum,5-9,83,49,34,20,10,10
+900,District-Pashchimi Singhbhum,10-19,222,138,84,96,54,42
+901,District-Pashchimi Singhbhum,20-29,148,81,67,144,73,71
+902,District-Pashchimi Singhbhum,30-39,139,70,69,129,64,65
+903,District-Pashchimi Singhbhum,40-49,104,57,47,116,59,57
+904,District-Pashchimi Singhbhum,50-59,65,31,34,67,39,28
+905,District-Pashchimi Singhbhum,60-69,37,20,17,45,17,28
+906,District-Pashchimi Singhbhum,70-79,6,4,2,12,5,7
+907,District-Pashchimi Singhbhum,80-89,4,3,1,2,0,2
+908,District-Pashchimi Singhbhum,90+,0,0,0,2,1,1
+909,District-Pashchimi Singhbhum,Age Not Stated,0,0,0,0,0,0
+910,District-Pashchimi Singhbhum,Total,602,330,272,459,221,238
+911,District-Pashchimi Singhbhum,0-4,17,9,8,5,3,2
+912,District-Pashchimi Singhbhum,5-9,68,39,29,14,7,7
+913,District-Pashchimi Singhbhum,10-19,160,100,60,51,28,23
+914,District-Pashchimi Singhbhum,20-29,102,55,47,103,48,55
+915,District-Pashchimi Singhbhum,30-39,94,43,51,103,50,53
+916,District-Pashchimi Singhbhum,40-49,74,38,36,87,39,48
+917,District-Pashchimi Singhbhum,50-59,52,25,27,50,28,22
+918,District-Pashchimi Singhbhum,60-69,28,16,12,37,14,23
+919,District-Pashchimi Singhbhum,70-79,5,3,2,8,4,4
+920,District-Pashchimi Singhbhum,80-89,2,2,0,0,0,0
+921,District-Pashchimi Singhbhum,90+,0,0,0,1,0,1
+922,District-Pashchimi Singhbhum,Age Not Stated,0,0,0,0,0,0
+923,District-Pashchimi Singhbhum,Total,230,135,95,182,106,76
+924,District-Pashchimi Singhbhum,0-4,7,3,4,3,2,1
+925,District-Pashchimi Singhbhum,5-9,15,10,5,6,3,3
+926,District-Pashchimi Singhbhum,10-19,62,38,24,45,26,19
+927,District-Pashchimi Singhbhum,20-29,46,26,20,41,25,16
+928,District-Pashchimi Singhbhum,30-39,45,27,18,26,14,12
+929,District-Pashchimi Singhbhum,40-49,30,19,11,29,20,9
+930,District-Pashchimi Singhbhum,50-59,13,6,7,17,11,6
+931,District-Pashchimi Singhbhum,60-69,9,4,5,8,3,5
+932,District-Pashchimi Singhbhum,70-79,1,1,0,4,1,3
+933,District-Pashchimi Singhbhum,80-89,2,1,1,2,0,2
+934,District-Pashchimi Singhbhum,90+,0,0,0,1,1,0
+935,District-Pashchimi Singhbhum,Age Not Stated,0,0,0,0,0,0
+936,District-Saraikela-Kharsawan,Total,"1,275",711,564,506,291,215
+937,District-Saraikela-Kharsawan,0-4,81,42,39,6,5,1
+938,District-Saraikela-Kharsawan,5-9,134,74,60,14,11,3
+939,District-Saraikela-Kharsawan,10-19,309,172,137,79,46,33
+940,District-Saraikela-Kharsawan,20-29,231,127,104,81,53,28
+941,District-Saraikela-Kharsawan,30-39,181,96,85,103,66,37
+942,District-Saraikela-Kharsawan,40-49,159,100,59,107,59,48
+943,District-Saraikela-Kharsawan,50-59,86,44,42,62,30,32
+944,District-Saraikela-Kharsawan,60-69,60,36,24,38,15,23
+945,District-Saraikela-Kharsawan,70-79,19,10,9,11,4,7
+946,District-Saraikela-Kharsawan,80-89,7,6,1,3,1,2
+947,District-Saraikela-Kharsawan,90+,6,4,2,0,0,0
+948,District-Saraikela-Kharsawan,Age Not Stated,2,0,2,2,1,1
+949,District-Saraikela-Kharsawan,Total,971,529,442,377,214,163
+950,District-Saraikela-Kharsawan,0-4,66,31,35,1,1,0
+951,District-Saraikela-Kharsawan,5-9,107,60,47,8,6,2
+952,District-Saraikela-Kharsawan,10-19,232,128,104,50,34,16
+953,District-Saraikela-Kharsawan,20-29,162,89,73,61,40,21
+954,District-Saraikela-Kharsawan,30-39,131,65,66,77,49,28
+955,District-Saraikela-Kharsawan,40-49,121,74,47,86,47,39
+956,District-Saraikela-Kharsawan,50-59,67,34,33,48,20,28
+957,District-Saraikela-Kharsawan,60-69,56,33,23,35,13,22
+958,District-Saraikela-Kharsawan,70-79,15,6,9,9,3,6
+959,District-Saraikela-Kharsawan,80-89,7,6,1,2,1,1
+960,District-Saraikela-Kharsawan,90+,5,3,2,0,0,0
+961,District-Saraikela-Kharsawan,Age Not Stated,2,0,2,0,0,0
+962,District-Saraikela-Kharsawan,Total,304,182,122,129,77,52
+963,District-Saraikela-Kharsawan,0-4,15,11,4,5,4,1
+964,District-Saraikela-Kharsawan,5-9,27,14,13,6,5,1
+965,District-Saraikela-Kharsawan,10-19,77,44,33,29,12,17
+966,District-Saraikela-Kharsawan,20-29,69,38,31,20,13,7
+967,District-Saraikela-Kharsawan,30-39,50,31,19,26,17,9
+968,District-Saraikela-Kharsawan,40-49,38,26,12,21,12,9
+969,District-Saraikela-Kharsawan,50-59,19,10,9,14,10,4
+970,District-Saraikela-Kharsawan,60-69,4,3,1,3,2,1
+971,District-Saraikela-Kharsawan,70-79,4,4,0,2,1,1
+972,District-Saraikela-Kharsawan,80-89,0,0,0,1,0,1
+973,District-Saraikela-Kharsawan,90+,1,1,0,0,0,0
+974,District-Saraikela-Kharsawan,Age Not Stated,0,0,0,2,1,1
